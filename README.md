@@ -1,6 +1,7 @@
 # Kapitan: Generic templated configuration management for Kubernetes, Terraform and other things
 
 [![Build Status](https://travis-ci.org/deepmind/kapitan.svg?branch=master)](https://travis-ci.org/deepmind/kapitan)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj420247%2Fkapitan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj420247%2Fkapitan?ref=badge_shield)
 
 Kapitan is a tool to manage complex deployments using jsonnet and jinja2.
 
@@ -633,3 +634,7 @@ We believe that these approaches can be blended in a powerful new way, glued tog
 
 * [sublime-jsonnet-syntax](https://github.com/gburiola/sublime-jsonnet-syntax) - Jsonnet syntax highlighting for Sublime Text
 * [language-jsonnet](https://github.com/google/language-jsonnet) - Jsonnet syntax highlighting for Atom
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fj420247%2Fkapitan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fj420247%2Fkapitan?ref=badge_large)
